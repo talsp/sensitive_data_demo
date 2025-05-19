@@ -1,0 +1,6 @@
+{
+  "smtp_user": "admin@example.com",
+  "smtp_pass": "SuperSecretPassword123!",
+  "gcloud_private_key_id": "1234567890abcdef",
+  "gcloud_private_key": "-----BEGIN PRIVATE KEY-----\\nFAKEKEYDATAHERE\\n-----END PRIVATE KEY-----\\n"
+}
